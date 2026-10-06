@@ -1,0 +1,6 @@
+{
+  "name": "Demo Fitness Club",
+  "description": "High-end modern fitness club website with premium black theme, neon accent, workout programs, elite trainers, and membership tiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
